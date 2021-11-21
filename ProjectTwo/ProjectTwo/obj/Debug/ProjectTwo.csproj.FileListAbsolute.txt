@@ -1,0 +1,8 @@
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\bin\Debug\ProjectTwo.exe.config
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\bin\Debug\ProjectTwo.exe
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\bin\Debug\ProjectTwo.pdb
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.csproj.AssemblyReference.cache
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.exe
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectTwo\ProjectTwo\obj\Debug\ProjectTwo.pdb

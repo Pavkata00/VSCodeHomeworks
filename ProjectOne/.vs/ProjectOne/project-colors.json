@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec2a9656-b370-40b2-85b2-4306c861ef6a": {
+      "ProjectGuid": "ec2a9656-b370-40b2-85b2-4306c861ef6a",
+      "DisplayName": "ProjectOne",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
