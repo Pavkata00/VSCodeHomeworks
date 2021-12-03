@@ -1,0 +1,8 @@
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\bin\Debug\ProjectThree.exe.config
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\bin\Debug\ProjectThree.exe
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\bin\Debug\ProjectThree.pdb
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\obj\Debug\ProjectThree.csproj.AssemblyReference.cache
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\obj\Debug\ProjectThree.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\obj\Debug\ProjectThree.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\obj\Debug\ProjectThree.exe
+C:\Users\pavel\source\VSCode\VSCodeHomeworks\ProjectThree\ProjectThree\obj\Debug\ProjectThree.pdb
